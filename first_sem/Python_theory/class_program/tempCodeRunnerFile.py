@@ -1,2 +1,1 @@
-    total=total+elements[i]
-    print("the sum of list is",total)
+balance=int(input("enter balance"))
