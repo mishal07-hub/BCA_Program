@@ -31,7 +31,7 @@ while choice!=4:
                     balance=acc_detail[i][4][3]
                     new_balance=balance+amount
                     acc_detail[i][4][3]=new_balance
-                    print("balance is%d",new_balance)   
+                    print("balance is %d",new_balance)   
                 elif choice==2:
                     amount=int(input("enter amount"))
                     balance=acc_detail[i][4][3]
